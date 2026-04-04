@@ -1,0 +1,520 @@
+{
+  "business": {
+    "name": "Summit Fencing",
+    "phone": "555-fen-r91",
+    "category": "fencing",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "fencing-mountain-bold",
+      "categoryGroup": "fencing",
+      "name": "Mountain Bold",
+      "recipeFile": "fencing/mountain-bold.astro",
+      "colors": {
+        "primary": "#451A03",
+        "primaryDark": "#301202",
+        "primaryLight": "#d1c6c0",
+        "secondary": "#78350F",
+        "accent": "#92400E",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#451A03",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "fencing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Durable Fencing Solutions for San Antonio Homes",
+      "heroSubline": "Custom fencing built for Texas heat and limestone soil. Serving Alamo City neighborhoods with locally-adapted materials and techniques.",
+      "aboutTitle": "Rooted in South Texas",
+      "aboutText": [
+        "Founded in 2012, Summit Fencing began with one truck and a commitment to solving San Antonio's unique fencing challenges. We've installed over 800 fences from the historic King William District to the newest Stone Oak developments.",
+        "Our approach combines traditional craftsmanship with modern materials engineered for our climate. We specialize in solutions that withstand 100° summers, occasional flash floods, and the shifting limestone beneath our feet.",
+        "When not installing fences, you'll find our team volunteering with Habitat for Humanity and sponsoring little league teams across Bexar County."
+      ],
+      "valueProps": [
+        {
+          "title": "Texas-Tough Materials",
+          "description": "We use galvanized steel posts and cedar rated for UV resistance to combat San Antonio's intense sun exposure."
+        },
+        {
+          "title": "Soil Specialists",
+          "description": "Our proprietary concrete footings prevent leaning in Boerne's clay-rich and New Braunfels' rocky soils."
+        },
+        {
+          "title": "Military Discounts",
+          "description": "Active duty and veteran families in Schertz receive special pricing on all installations."
+        },
+        {
+          "title": "Storm-Ready Designs",
+          "description": "All gates include hurricane-rated hardware to withstand sudden Hill Country wind gusts."
+        }
+      ],
+      "ctaHeadline": "Ready for a fence that lasts?",
+      "ctaSubline": "Get your free estimate today. Calls answered by our local team, not a call center."
+    },
+    "services": [
+      {
+        "slug": "cedar-privacy-fences",
+        "name": "Cedar Privacy Fences",
+        "shortDescription": "Natural wood fencing that withstands San Antonio's humidity without warping.",
+        "description": "Our premium cedar fences are hand-built using vertical grain boards that resist checking and splitting in South Texas' humidity cycle. We source 100% heartwood from sustainable forests, avoiding the sapwood that attracts wood-boring insects prevalent in Bexar County.\n\nEach 6-8 foot panel is assembled with stainless steel fasteners to prevent rust stains on the wood. Posts are set 36\" deep in reinforced concrete to combat soil movement in areas like Helotes where limestone shelves create unstable ground.\n\nOptional upgrades include routed top edges to shed rainwater away from your foundation and custom stains formulated to protect against UV damage while complementing local architecture from Spanish Revival homes to modern farmhouses.",
+        "process": [
+          "Step 1: Site evaluation checking for underground utilities and soil composition",
+          "Step 2: Custom design consultation matching your home's architecture",
+          "Step 3: Permitting assistance for San Antonio's historic districts",
+          "Step 4: Installation with daily cleanup protocol"
+        ],
+        "benefits": [
+          "Natural insect resistance without chemical treatments",
+          "Pre-stained options reduce maintenance",
+          "Sound dampening for busy streets",
+          "Adds 15-20% to property values in SA suburbs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I reseal my cedar fence?",
+            "answer": "In San Antonio's climate, we recommend re-staining every 3-4 years. North-facing fences last longer between treatments than those exposed to full sun on the west side."
+          },
+          {
+            "question": "Do you offer dog-eared pickets?",
+            "answer": "Yes, we can mill traditional dog-eared boards, though most clients prefer our shadow box design that allows breezes while maintaining privacy in humid conditions."
+          },
+          {
+            "question": "Can you match my existing 1920s Alamo Heights fence?",
+            "answer": "Our craftsmen specialize in replicating historic profiles using period-correct joinery techniques while adding modern structural reinforcements."
+          }
+        ]
+      },
+      {
+        "slug": "wrought-iron-gates",
+        "name": "Wrought Iron Gates",
+        "shortDescription": "Ornamental security gates combining Spanish colonial style with modern safety.",
+        "description": "Hand-forged iron gates that echo San Antonio's mission architecture while meeting today's security needs. Each custom design begins with CAD drawings to match your home's proportions, whether you're in a Terrell Hills estate or a Southtown bungalow.\n\nWe use 1/2\" solid steel bars (not hollow tubing) with continuous welds that won't fail in temperature swings. All hinges are brass-bushed for silent operation, with self-latching mechanisms that stand up to Boerne's frequent wind gusts.\n\nFinishes include traditional black powder coating or our specialty Verdigris patina that mimics the historic gates at the San Fernando Cathedral. For pool areas, we add self-closing mechanisms that exceed city safety codes.\n\nOptional automation packages integrate with San Antonio's alkaline-resistant hardware for reliable operation in our mineral-rich rainwater.",
+        "process": [
+          "Step 1: Measurements of your existing columns or new construction",
+          "Step 2: 3D rendering showing sightlines and security features",
+          "Step 3: Forged construction at our local welding shop",
+          "Step 4: Installation with tamper-proof concrete anchors"
+        ],
+        "benefits": [
+          "Deters burglars without blocking breezes",
+          "No rattling in wind storms",
+          "Complements stucco and limestone facades",
+          "Lifetime warranty on structural integrity"
+        ],
+        "faq": [
+          {
+            "question": "How tall can driveway gates be?",
+            "answer": "Most neighborhoods allow up to 8 feet, but we'll verify your specific HOA rules. In flood zones like Olmos Park, we recommend shorter designs that don't trap debris during heavy rains."
+          },
+          {
+            "question": "Do you repair existing ironwork?",
+            "answer": "Yes, we specialize in restoring century-old gates using forge welding techniques that maintain historical integrity while adding modern reinforcements."
+          },
+          {
+            "question": "Can gates withstand hail damage?",
+            "answer": "Our 12-gauge steel construction resists dents from typical San Antonio hail. We also offer removable padded covers for extreme weather events."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-security",
+        "name": "Security Chain Link",
+        "shortDescription": "Commercial-grade barriers that blend into residential areas near military bases.",
+        "description": "Heavy-duty 9-gauge chain link installations designed for security without an institutional look. Popular with Schertz families near Randolph AFB and Leon Valley businesses, our vinyl-coated fencing comes in earth tones that disappear into Hill Country landscapes.\n\nWe install using 2-3/8\" galvanized steel posts set in 600psi concrete - crucial for preventing leverage attacks in high-traffic areas. All fittings are triple-dipped to resist corrosion from San Antonio's occasional acidic rainfall.\n\nFor schools and playgrounds, we offer 6' tall barriers with curved tops that prevent climbing. Mesh sizes range from standard 2\" openings down to 1/2\" for small pet containment. Optional privacy slats match popular home colors in New Braunfels' newest subdivisions.\n\nAll installations include tension wire along the base to prevent lifting and tamper-proof hardware that requires special tools to remove.",
+        "process": [
+          "Step 1: Security assessment identifying vulnerable access points",
+          "Step 2: Custom height and color selection",
+          "Step 3: Underground utility marking",
+          "Step 4: Installation with minimal disruption"
+        ],
+        "benefits": [
+          "Discourages trespassing without visual barriers",
+          "Allows airflow for flood-prone areas",
+          "Low maintenance compared to wood",
+          "Meets military housing specifications"
+        ],
+        "faq": [
+          {
+            "question": "How close can you install to property lines?",
+            "answer": "We adhere strictly to Bexar County setback requirements, typically 2\" from the line. For precise surveys in older neighborhoods, we partner with local land surveyors."
+          },
+          {
+            "question": "Can it withstand a vehicle impact?",
+            "description": "Our industrial-grade posts can stop a 2-ton vehicle moving at 5mph when properly anchored - ideal for corner lots near busy intersections."
+          },
+          {
+            "question": "Do you offer wildlife fencing?",
+            "answer": "Yes, we install 8' tall deer fences with buried skirts to prevent digging, using materials that blend into natural areas around Boerne."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fencing",
+        "name": "Vinyl Fencing",
+        "shortDescription": "Low-maintenance alternative that resists fading in intense Texas sun.",
+        "description": "Premium PVC fencing systems engineered for San Antonio's UV index, using formulations with titanium dioxide that prevent yellowing. Unlike cheaper vinyl that warps in our heat, we use 7\" thick boards with aluminum reinforcement channels - crucial for maintaining straight lines during 100° summers.\n\nAvailable in classic white or sandstone tones that complement local limestone, with texture options from smooth contemporary to wood-grain patterns. All posts include our patented ventilation system that prevents moisture buildup behind panels, a common failure point in humid microclimates near the River Walk.\n\nPerfect for pool enclosures where splashed chlorinated water would damage wood. We use salt-resistant hardware and make all cuts onsite with industrial saws that prevent the chipping common with pre-cut materials. Gates feature stainless steel internal frames for wobble-free operation year after year.",
+        "process": [
+          "Step 1: Thermal imaging to identify heat zones affecting expansion",
+          "Step 2: Color matching to your home's exterior",
+          "Step 3: Custom fabrication avoiding weak seams",
+          "Step 4: Installation with expansion joints for temperature swings"
+        ],
+        "benefits": [
+          "Never needs painting or staining",
+          "Won't harbor termites common in SA",
+          "Easy cleaning with garden hose",
+          "50-year manufacturer warranty"
+        ],
+        "faq": [
+          {
+            "question": "How does vinyl handle hail storms?",
+            "answer": "Our 5/8\" thick panels are rated for 1\" hail at 50mph. For added protection, we can install with removable foam inserts during peak storm seasons."
+          },
+          {
+            "question": "Can you match my existing vinyl fence?",
+            "answer": "We maintain samples from discontinued lines and can custom blend colors to approximate older sections needing repair."
+          },
+          {
+            "question": "Is it slippery when wet?",
+            "answer": "Our textured surfaces maintain traction even during heavy rains, unlike cheaper smooth vinyl that becomes hazardous on slopes common in Terrell Hills."
+          }
+        ]
+      },
+      {
+        "slug": "barbed-wire-ranch",
+        "name": "Ranch Fencing",
+        "shortDescription": "Working fences for Hill Country properties with livestock and wildlife.",
+        "description": "Traditional ranch fencing solutions adapted for Central Texas' unique challenges. We build with 8' cedar posts treated for ground contact - essential for lasting stability in the alternating wet/dry cycles of New Braunfels creek bottoms.\n\nOptions include classic 4-wire barbed for cattle or high-tensile electric systems for goat operations. All corner assemblies use double H-braces with concrete deadmen to withstand constant pressure from curious longhorns. We install wildlife-friendly designs with smooth bottom wires to prevent fawn injuries.\n\nFor equestrian properties, we offer board fencing with rounded edges that prevent horse injuries. All nails are countersunk and capped to eliminate sharp points. Special designs accommodate the rolling terrain of Boerne's horse country with stepped construction that follows natural contours.\n\nWe source materials from Texas suppliers to ensure compatibility with local conditions, including UV-resistant polywire and galvanized staples that won't corrode in alkaline soils.",
+        "process": [
+          "Step 1: Topographic survey identifying drainage patterns",
+          "Step 2: Livestock behavior consultation",
+          "Step 3: Custom bracing for your acreage",
+          "Step 4: Installation following Texas Agricultural Extension guidelines"
+        ],
+        "benefits": [
+          "Contains livestock without injury",
+          "Discourages feral hogs",
+          "Maintains views across properties",
+          "Withstands equipment contact"
+        ],
+        "faq": [
+          {
+            "question": "How deep should posts be set?",
+            "answer": "In rocky areas like Kendall County, we drill 30\" deep with rock bits and use expanding foam backfill when conventional concrete isn't practical."
+          },
+          {
+            "question": "Can fencing prevent axis deer damage?",
+            "answer": "We recommend 8' tall fencing with outward-angled tops for properties battling these invasive deer, using materials that don't snag their distinctive antlers during rutting season."
+          },
+          {
+            "question": "Do you repair hail-damaged fences?",
+            "answer": "Yes, we carry replacement materials that age-match existing installations, important for maintaining uniform weathering on visible ranch frontages."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Marisol R.",
+        "rating": 5,
+        "service": "Cedar Privacy Fence",
+        "text": "After three other companies told me they couldn't match our historic Monte Vista fence's profile, Summit replicated the original 1930s design perfectly. They even sourced reclaimed cedar to match the aging of our existing sections. Two summers later, not a single board has warped despite our west-facing exposure.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "James T.",
+        "rating": 5,
+        "service": "Wrought Iron Gate",
+        "text": "The automated gate system has handled 110° days and that freak February freeze without a hiccup. I appreciate how they designed the mechanism to stay hidden - our Alamo Heights HOA is particular about visible hardware. The patina finish looks like it's been there since the 1920s.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Lt. Col. Davis",
+        "rating": 5,
+        "service": "Security Chain Link",
+        "text": "As a Randolph AFB housing inspector, I've seen every type of fence failure. Summit's 9-gauge installation with concrete footings is what we recommend to military families. The black vinyl coating makes it disappear against our live oaks while containing our three German shepherds.",
+        "date": "2024-11-07"
+      },
+      {
+        "name": "Elena G.",
+        "rating": 5,
+        "service": "Vinyl Pool Fence",
+        "text": "Our pool area gets full sun from dawn till dusk in Stone Oak. After just one season, the cheap builder-grade fence turned yellow. Summit's titanium-infused vinyl still looks brand new after 18 months, and their self-closing gate mechanism gives me peace of mind with toddlers.",
+        "date": "2024-09-30"
+      },
+      {
+        "name": "Buck H.",
+        "rating": 5,
+        "service": "Ranch Fencing",
+        "text": "Running 200 head on rocky Boerne land destroys most fences. Summit's H-brace corners anchored in limestone have withstood back-to-back wet years without leaning. They even designed special access points for our tractor implements that save hours during roundups.",
+        "date": "2024-08-14"
+      },
+      {
+        "name": "Natalie W.",
+        "rating": 5,
+        "service": "Cedar Privacy Fence",
+        "text": "The shadow box design lets our backyard breezes flow while keeping privacy from the busy Olmos Park traffic. Most impressive was how they handled our nightmare soil - alternating layers of caliche and clay that snapped two other contractors' auger bits. No settling issues after the historic May floods.",
+        "date": "2024-06-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Antonio Fencing Company | Custom Install & Repair",
+        "description": "Local fencing experts serving Bexar County with materials engineered for Texas heat, limestone soil, and historic district requirements."
+      },
+      "about": {
+        "title": "About Our San Antonio Fence Company | Local Roots",
+        "description": "Meet the craftsmen solving unique fencing challenges from Southtown bungalows to Stone Oak estates since 2012."
+      },
+      "services": {
+        "title": "San Antonio Fence Services | Climate-Adapted Materials",
+        "description": "From UV-resistant cedar to hail-proof vinyl, we build fences designed for Central Texas weather extremes."
+      },
+      "contact": {
+        "title": "Contact San Antonio's Top Fence Builders | Free Estimates",
+        "description": "Schedule your consultation with local fencing experts serving Alamo Heights, Helotes, and greater Bexar County."
+      },
+      "reviews": {
+        "title": "San Antonio Fence Company Reviews | Happy Customers",
+        "description": "Read why hundreds of local homeowners trust Summit Fencing for durable, beautiful installations."
+      },
+      "service-areas": {
+        "title": "Fence Company Near Me | New Braunfels to Schertz",
+        "description": "Local fence builders serving communities across Greater San Antonio with specialized installations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "New Braunfels",
+        "slug": "new-braunfels-tx",
+        "state": "TX",
+        "content": "Summit Fencing is proud to serve the beautiful community of New Braunfels, TX, where the scenic Guadalupe River meets the charm of Texas Hill Country. Our fencing solutions are tailored to complement the area's distinctive stone homes and rustic landscapes. Whether you need a sturdy privacy fence for your backyard oasis or an elegant wrought iron fence to enhance your property's curb appeal, we deliver quality craftsmanship that withstands the region's hot summers. Many homeowners in New Braunfels also opt for our custom fencing options to match the area's unique architectural style. We understand the importance of durability in this climate, which is why we use materials that resist warping and fading under the Texas sun.",
+        "localContext": "New Braunfels is known for its German heritage, riverfront properties, and thriving tourism industry.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Canyon Lake",
+          "Gruene"
+        ]
+      },
+      {
+        "city": "Boerne",
+        "slug": "boerne-tx",
+        "state": "TX",
+        "content": "In Boerne, TX, Summit Fencing specializes in crafting custom fences that blend seamlessly with the area's Hill Country aesthetic. From rustic ranch-style fencing to modern steel designs, we cater to the diverse needs of Boerne's homeowners. The hot summers here demand fences that can handle the heat, and our high-quality materials ensure long-lasting performance. Many of our clients in Boerne appreciate our attention to detail, especially for properties with scenic views or large acreage. We also offer maintenance services to keep your fence looking pristine year-round, despite the challenging weather conditions.",
+        "localContext": "Boerne features a charming downtown, historic homes, and a strong sense of community.",
+        "nearbyAreas": [
+          "Fair Oaks Ranch",
+          "Comfort",
+          "Kendalia"
+        ]
+      },
+      {
+        "city": "Schertz",
+        "slug": "schertz-tx",
+        "state": "TX",
+        "content": "Summit Fencing provides reliable fencing solutions for Schertz, TX, a growing community with many military families stationed near Randolph AFB. We understand the need for secure, low-maintenance fencing options that accommodate busy lifestyles. Our vinyl and aluminum fences are popular choices for Schertz residents, offering both durability and aesthetic appeal. The hot summers here can be tough on outdoor structures, but our materials are designed to withstand extreme temperatures without compromising on looks. Whether you need a fence for privacy, safety, or simply to enhance your home's exterior, we've got you covered.",
+        "localContext": "Schertz is a family-friendly city with strong ties to the military and a rapidly expanding suburban landscape.",
+        "nearbyAreas": [
+          "Cibolo",
+          "Universal City",
+          "Converse"
+        ]
+      },
+      {
+        "city": "San Antonio",
+        "slug": "san-antonio-tx",
+        "state": "TX",
+        "content": "As the heart of our service area, San Antonio, TX, benefits from Summit Fencing's extensive experience in both residential and commercial fencing projects. From classic wood privacy fences to modern chain-link solutions, we cater to the diverse needs of this vibrant city. San Antonio's hot summers require fencing materials that can endure prolonged sun exposure, and we specialize in options that resist heat damage. Our team is familiar with local regulations and homeowner association guidelines, ensuring a smooth installation process. Whether you're in Alamo Heights or Stone Oak, we provide tailored fencing solutions to match your property's style.",
+        "localContext": "San Antonio combines historic charm with rapid urban growth, featuring a mix of traditional and contemporary architecture.",
+        "nearbyAreas": [
+          "Alamo Heights",
+          "Stone Oak",
+          "Helotes"
+        ]
+      },
+      {
+        "city": "Cibolo",
+        "slug": "cibolo-tx",
+        "state": "TX",
+        "content": "Summit Fencing serves the growing community of Cibolo, TX, where families and professionals seek durable, attractive fencing solutions. The hot summers here make it essential to choose materials that won't warp or fade, and we offer a range of options designed for longevity. Many Cibolo homeowners prefer our vinyl and aluminum fences for their low-maintenance benefits and modern appeal. We also provide custom designs to complement the area's newer suburban developments. Whether you're looking to secure your backyard or define your property lines, our team delivers expert craftsmanship tailored to Cibolo's climate and style.",
+        "localContext": "Cibolo is a fast-growing suburb with excellent schools and a family-oriented atmosphere.",
+        "nearbyAreas": [
+          "Schertz",
+          "Universal City",
+          "Marion"
+        ]
+      },
+      {
+        "city": "Fair Oaks Ranch",
+        "slug": "fair-oaks-ranch-tx",
+        "state": "TX",
+        "content": "In Fair Oaks Ranch, TX, Summit Fencing specializes in high-end fencing solutions for luxury properties and sprawling estates. The Hill Country setting demands fences that blend natural beauty with functionality, and our custom designs do just that. The hot summers here require materials that can withstand extreme temperatures, and we use only the most durable options. Many Fair Oaks Ranch residents opt for our wrought iron or ornamental steel fences to enhance their property's elegance. We also offer gated entry solutions for added security and curb appeal, ensuring your home stands out in this prestigious community.",
+        "localContext": "Fair Oaks Ranch is known for its upscale homes, golf courses, and scenic Hill Country views.",
+        "nearbyAreas": [
+          "Boerne",
+          "Bulverde",
+          "Leon Springs"
+        ]
+      },
+      {
+        "city": "Universal City",
+        "slug": "universal-city-tx",
+        "state": "TX",
+        "content": "Summit Fencing provides dependable fencing services for Universal City, TX, a close-knit community with many military families and retirees. The hot summers here call for fences that can endure intense sunlight, and our vinyl and chain-link options are built to last. Universal City homeowners appreciate our quick turnaround times and attention to detail, especially for properties near Randolph AFB. We also offer repair services to address wear and tear caused by the Texas heat. Whether you need a basic boundary fence or a decorative upgrade, we deliver solutions that fit your needs and budget.",
+        "localContext": "Universal City is a small but vibrant city with a strong military presence and affordable housing options.",
+        "nearbyAreas": [
+          "Schertz",
+          "Cibolo",
+          "Converse"
+        ]
+      },
+      {
+        "city": "Bulverde",
+        "slug": "bulverde-tx",
+        "state": "TX",
+        "content": "Summit Fencing serves the rustic charm of Bulverde, TX, where Hill Country properties often require custom fencing solutions. Our expertise in wood, wrought iron, and stone-accented fences makes us a perfect fit for this scenic area. The hot summers demand materials that won't deteriorate under the sun, and we prioritize durability in every project. Bulverde's rural and semi-rural properties benefit from our ranch-style fencing options, which provide both security and aesthetic appeal. Whether you're fencing a large acreage or a cozy homestead, we tailor our designs to match Bulverde's natural beauty.",
+        "localContext": "Bulverde is a picturesque community with rolling hills, vineyards, and a relaxed country lifestyle.",
+        "nearbyAreas": [
+          "Spring Branch",
+          "Garden Ridge",
+          "Canyon Lake"
+        ]
+      },
+      {
+        "city": "Helotes",
+        "slug": "helotes-tx",
+        "state": "TX",
+        "content": "In Helotes, TX, Summit Fencing offers fencing solutions that reflect the area's unique blend of rural and suburban living. The hot summers here require durable materials, and our vinyl, aluminum, and wood fences are designed to resist heat damage. Helotes homeowners often choose our custom designs to complement their properties' rustic or modern aesthetics. We also specialize in gates and entryway fencing to enhance both security and curb appeal. Whether you're near Old Town Helotes or in a newer subdivision, our team provides reliable service tailored to the local climate and style.",
+        "localContext": "Helotes is known for its live music scene, historic charm, and proximity to San Antonio.",
+        "nearbyAreas": [
+          "Grey Forest",
+          "Leon Springs",
+          "San Antonio"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "cedar-privacy-fences": "/images/service-cedar-privacy-fences.webp",
+      "wrought-iron-gates": "/images/service-wrought-iron-gates.webp",
+      "chain-link-security": "/images/service-chain-link-security.webp",
+      "vinyl-fencing": "/images/service-vinyl-fencing.webp",
+      "barbed-wire-ranch": "/images/service-barbed-wire-ranch.webp"
+    },
+    "servicesResponsive": {
+      "cedar-privacy-fences": {
+        "src": "/images/service-cedar-privacy-fences.webp",
+        "srcset": "/images/service-cedar-privacy-fences-400w.webp 400w, /images/service-cedar-privacy-fences-800w.webp 800w, /images/service-cedar-privacy-fences-1200w.webp 1200w, /images/service-cedar-privacy-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wrought-iron-gates": {
+        "src": "/images/service-wrought-iron-gates.webp",
+        "srcset": "/images/service-wrought-iron-gates-400w.webp 400w, /images/service-wrought-iron-gates-800w.webp 800w, /images/service-wrought-iron-gates-1200w.webp 1200w, /images/service-wrought-iron-gates.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-security": {
+        "src": "/images/service-chain-link-security.webp",
+        "srcset": "/images/service-chain-link-security-400w.webp 400w, /images/service-chain-link-security-800w.webp 800w, /images/service-chain-link-security-1200w.webp 1200w, /images/service-chain-link-security.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fencing": {
+        "src": "/images/service-vinyl-fencing.webp",
+        "srcset": "/images/service-vinyl-fencing-400w.webp 400w, /images/service-vinyl-fencing-800w.webp 800w, /images/service-vinyl-fencing-1200w.webp 1200w, /images/service-vinyl-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "barbed-wire-ranch": {
+        "src": "/images/service-barbed-wire-ranch.webp",
+        "srcset": "/images/service-barbed-wire-ranch-400w.webp 400w, /images/service-barbed-wire-ranch-800w.webp 800w, /images/service-barbed-wire-ranch-1200w.webp 1200w, /images/service-barbed-wire-ranch.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
